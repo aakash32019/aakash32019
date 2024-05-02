@@ -20,7 +20,7 @@ In addition to my technical pursuits, I am currently pursuing a Master of Scienc
 
 ### Personal Interests
 
-When I'm not immersed in coding or studying, I enjoy outdoor activities like going for walks and cycling. These activities help me maintain a healthy work-life balance and recharge my mind.
+When I'm not immersed in coding or studying, I enjoy outdoor activities like going for walks 🚶 and cycling 🚲. These activities help me maintain a healthy work-life balance and recharge my mind.
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
 
