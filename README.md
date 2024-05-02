@@ -1,5 +1,10 @@
 # Helloooo 👋
 
+## Repos:
+
+Base Repo 1: [hello-world](https://github.com/aakash32019/hello-world)
+Base Repo 2: [my-first-project](https://github.com/aakash32019/my-first-project)
+
 ## About me
 
 ### VPN Infrastructure 🧰
