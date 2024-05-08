@@ -1,6 +1,6 @@
 # Helloooo 👋
 
- ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash32019&show_icons=true&theme=radical)
+ ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash32019&show_icons=true&theme=cobalt)
 
 ## Repos:
 
