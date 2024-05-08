@@ -1,6 +1,6 @@
 # Helloooo 👋
 
- [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash32019)](https://github.com/aakash32019/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash32019&show_icons=true&bg_color=00000000)
 
 ## Repos:
 
