@@ -1,5 +1,7 @@
 # Helloooo 👋
 
+ [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash32019)](https://github.com/aakash32019/github-readme-stats)
+
 ## Repos:
 
 Base Repo 1: [hello-world](https://github.com/aakash32019/hello-world)  <br>
